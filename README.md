@@ -177,8 +177,8 @@ L'application stocke les informations dans des fichiers plats délimités par de
 
 1. **Cloner le projet** :
    ```bash
-   git clone https://github.com/salahmanaa/school-managment-system-with-C-.git
-   cd school-managment-system-with-C-master
+   git clone https://github.com/anasschenguiti/School-Management-System.git
+   cd School-Management-System
    ```
 
 2. **Compiler l'application** :
