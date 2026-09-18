@@ -1,0 +1,19 @@
+# Binaires et exécutables
+*.exe
+*.o
+*.obj
+*.out
+
+# Dossiers de compilation Code::Blocks
+bin/
+obj/
+
+# Fichiers temporaires Code::Blocks
+*.depend
+*.layout
+
+# Fichiers système et IDE
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

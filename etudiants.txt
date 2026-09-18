@@ -1,0 +1,2 @@
+1,manaa,salaheddine,smanaa@email.com,IIR,G1,photo.png
+2,chenguiti,anas,achenguiti@email.com,GC,G2,photo.png

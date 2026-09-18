@@ -1,0 +1,7 @@
+admin@email.com,adminadmin,admin
+smanaa@email.com,manaa123,student
+achenguiti@email.com,chenguiti123,student
+yjanane@email.com,janane123,professor
+yamrani@email.com,amrani123,professor
+zharboul@email.com,harboul123,professor
+stmimi@email.com,tmimi123,professor

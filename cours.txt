@@ -1,0 +1,4 @@
+reseau,reseau,2,1,yjanane@email.com
+poo,poo,3,2,yamrani@email.com
+math,math,3,3,zharboul@email.com
+phy,phy,2,4,stmimi@email.com
